@@ -1,0 +1,16 @@
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.exe
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.deps.json
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.runtimeconfig.json
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.runtimeconfig.dev.json
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.dll
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.pdb
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.Core.dll
+C:\programowanie\cshrp\Debtor\Debtor\bin\Debug\netcoreapp3.1\Debtor.Core.pdb
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.csprojAssemblyReference.cache
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.AssemblyInfoInputs.cache
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.AssemblyInfo.cs
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.csproj.CoreCompileInputs.cache
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.csproj.CopyComplete
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.dll
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.pdb
+C:\programowanie\cshrp\Debtor\Debtor\obj\Debug\netcoreapp3.1\Debtor.genruntimeconfig.cache

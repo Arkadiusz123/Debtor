@@ -1,0 +1,9 @@
+C:\programowanie\cshrp\Debtor\Debtor.Core\bin\Debug\netcoreapp3.1\Debtor.Core.deps.json
+C:\programowanie\cshrp\Debtor\Debtor.Core\bin\Debug\netcoreapp3.1\Debtor.Core.dll
+C:\programowanie\cshrp\Debtor\Debtor.Core\bin\Debug\netcoreapp3.1\Debtor.Core.pdb
+C:\programowanie\cshrp\Debtor\Debtor.Core\obj\Debug\netcoreapp3.1\Debtor.Core.csprojAssemblyReference.cache
+C:\programowanie\cshrp\Debtor\Debtor.Core\obj\Debug\netcoreapp3.1\Debtor.Core.AssemblyInfoInputs.cache
+C:\programowanie\cshrp\Debtor\Debtor.Core\obj\Debug\netcoreapp3.1\Debtor.Core.AssemblyInfo.cs
+C:\programowanie\cshrp\Debtor\Debtor.Core\obj\Debug\netcoreapp3.1\Debtor.Core.csproj.CoreCompileInputs.cache
+C:\programowanie\cshrp\Debtor\Debtor.Core\obj\Debug\netcoreapp3.1\Debtor.Core.dll
+C:\programowanie\cshrp\Debtor\Debtor.Core\obj\Debug\netcoreapp3.1\Debtor.Core.pdb
